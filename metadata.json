@@ -1,0 +1,6 @@
+{
+  "name": "The Unframed — A Gallery Without Boundaries",
+  "description": "An experimental, award-worthy digital art exhibition where contemporary artwork, architectural typography, and negative space coexist as one visual installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
